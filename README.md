@@ -71,7 +71,7 @@ Go to the Pull Request for the `full-date` branch and click on the "Resolve conf
 Resolve the conflict by logically combining the changes from both branches:
 
 - `full-date` changed the code to show the full date
-- `main` refactored the code to only on line
+- `main` refactored the code to only one line
 
 Keep the changes from `full-date` as-is since the refactor to one line (on the `main` branch) was not necessary. (Accept the current change.)
 
